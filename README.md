@@ -2,7 +2,7 @@
 - 👀 I’m interested in website enginering
 - 🌱 I’m currently learning java,html,bootstrap,php,laravel and more
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me in email they114@gmail.com
+- 📫 How to reach me in email kecialpou@gmail.com
 
 <!---
 kecialpou/kecialpou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
